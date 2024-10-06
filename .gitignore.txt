@@ -1,0 +1,20 @@
+# Flutter/Dart specific
+.dart_tool/
+.packages
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Podfile.lock
+.idea/
+.vscode/
+
+# IDE files
+*.iml
+*.log
+*.swp
+*.swo
+
+# Other files to ignore
+pubspec.lock
